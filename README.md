@@ -1,2 +1,1 @@
-# Seguran-a-digital
-dfg
+# gerador_de_senhas
